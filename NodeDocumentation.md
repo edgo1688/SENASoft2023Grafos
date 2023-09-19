@@ -3,7 +3,7 @@
 
 ## Tabla de Contenidos 📑
 
-1. [¿Qué es Node.js?](#qué-es-nodejs)
+1. [ ¿Qué es Node.js?](#qué-es-nodejs)
 2. [¿Por qué es Importante?](#por-qué-es-importante)
 3. [Historia de Node.js](#historia-de-nodejs)
 4. [Cómo Funciona](#cómo-funciona)
