@@ -7,6 +7,7 @@
    - [Creación de la Lista Enlazada](#creación-de-la-lista-enlazada)
    - [Operaciones de Contactos](#operaciones-de-contactos)
    - [Búsqueda y Edición de Contactos](#búsqueda-y-edición-de-contactos)
+   - [Funcionalidades Adicionales](#funcionalidades-adicionales)
 
 ---
 
@@ -35,9 +36,12 @@ En esta etapa adicional, puedes implementar las siguientes funciones para mejora
    - `buscar_contacto(nombre)`: Busca un contacto por nombre y muestra su información si existe.
    - `editar_contacto(nombre, nuevoTelefono, nuevoCorreo)`: Permite editar la información de un contacto existente.
 
-Estas funciones agregarán funcionalidades adicionales al sistema de gestión de contactos, permitiendo a los usuarios buscar y editar información de contactos específicos.
+### Funcionalidades Adicionales 🔄🗑️
+
+#### Eliminación por Posición
+
+Agrega una función `eliminar_por_posicion(posicion)` que permita eliminar un contacto de la lista enlazada en una posición específica.
 
 ---
 
 Este ejercicio te ayudará a comprender y practicar la implementación y manipulación de una lista enlazada simple, una estructura de datos importante en programación. ¡Comencemos a gestionar contactos!
-
